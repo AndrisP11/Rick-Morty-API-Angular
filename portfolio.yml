@@ -1,0 +1,6 @@
+title: "Angular Rick Morty API"
+description: "This project shows how in angular get data from API style them."
+project_url: "https://github.com/AndrisP11/Rick-Morty-API-Angular"
+repo: "Rick-Morty-API-Angular"
+owner: "AndrisP11"
+image_list: ["https://raw.githubusercontent.com/AndrisP11/Rick-Morty-API-Angular/main/src/assets/images/First.jpg", "https://raw.githubusercontent.com/AndrisP11/Rick-Morty-API-Angular/main/src/assets/images/Middle.jpg", "https://raw.githubusercontent.com/AndrisP11/Rick-Morty-API-Angular/main/src/assets/images/Last.jpg"]
